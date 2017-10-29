@@ -9,6 +9,11 @@
    text-shadow: none;
  }
 
+ .hlight {
+   text-transform: lowercase;
+   font-size: 2rem;
+ }
+
  .blight {
    font-weight: 300 !important;
  }
