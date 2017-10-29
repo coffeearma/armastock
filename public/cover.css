@@ -11,8 +11,8 @@
  }
 
  .hlight {
-   text-transform: lowercase;
-   font-size: 2rem;
+   text-transform: lowercase !important;
+   font-size: 2rem !important;
  }
 
  .blight {
