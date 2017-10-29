@@ -8,6 +8,7 @@
       text-shadow: none;
       -webkit-font-smoothing: antialiased;
       background: #fff;
+      min-height: 75rem;
    }
 
 /* End */
