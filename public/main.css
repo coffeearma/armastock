@@ -1,0 +1,74 @@
+/* Imports & Globals */
+   @import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+
+
+   html,
+   body {
+      font-family: 'Lato', sans-serif;
+      text-shadow: none;
+      -webkit-font-smoothing: antialiased;
+      background: #fff;
+   }
+
+/* End */
+
+
+/* Master Container */
+.inner {
+  padding: 2rem;
+}
+
+/* End */
+
+/* Missions text */
+
+article {
+  position: relative;
+  margin: 100px auto;
+  padding: 40px 0;
+
+}
+
+article::before,
+article::after {
+  background: #fff;
+  -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+.missh {
+  margin: 0 40px 1em;
+  padding: 0;
+  line-height: 1;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.missp {
+  margin: 0 40px 1em;
+  padding: 0;
+  line-height: 1.2;
+}
+
+.bout {
+  background: #000;
+  display: inline-block;
+  color: #000;
+}
+
+.signed {
+  color: #383636;
+  font-weight: 700;
+  margin: 0 80px 1em;
+}
+
+.sig {
+  margin: 0 80px 1em;
+  width: 150;
+  height: 75;
+}
+
+
+/* End */
