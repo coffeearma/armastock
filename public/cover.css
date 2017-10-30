@@ -63,6 +63,8 @@ body {
   font-family: 'Lato', sans-serif !important;
   text-shadow: none;
   -webkit-font-smoothing: antialiased;
+}
+body {
   color: #fff;
   text-align: center;
 }
