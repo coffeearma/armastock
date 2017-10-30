@@ -35,6 +35,7 @@
 
  .muted a {
    color: #898a8c;
+   text-align: center;
  }
 
  .muted a:hover {
