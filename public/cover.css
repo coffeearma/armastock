@@ -9,7 +9,15 @@
    font-weight: 300;
    margin-top: 50px;
    text-shadow: none;
+   text-align: center;
+   color: white;
 
+ }
+
+ .lli {
+   font-weight: 300;
+   text-align: center;
+   color: white;
  }
 
  .hlight {
@@ -100,6 +108,7 @@ body {
 
  .bold {
    font-weight: 700;
+   color: white;
  }
 
 .masthead {
