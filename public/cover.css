@@ -43,6 +43,15 @@
    color: white;
  }
 
+ .bbold {
+   font-weight: 400;
+ }
+
+ .hpil {
+   font-weight: 400;
+   font-size: initial;
+ }
+
 /* Links */
 a,
 a:focus,
