@@ -67,8 +67,8 @@ body {
   text-align: center;
 }
 body {
-  text-align: center !important;
-  color: #fff !important;
+  text-align: center;
+  color: #fff;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
