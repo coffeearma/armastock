@@ -2,6 +2,8 @@
  * Globals
  */
 
+ @import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+
  .hbold {
    text-transform: uppercase;
    font-weight: 300;
@@ -31,8 +33,6 @@
    text-decoration: none;
  }
 
- @import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
-
 /* Links */
 a,
 a:focus,
@@ -60,7 +60,7 @@ body {
   height: 100%;
   /*background-color: #333;*/
   background-image: url("https://puu.sh/yacDu.png") !important;
-  font-family: 'Lato', sans-serif !important;
+  font-family: 'Lato', sans-serif;
   text-shadow: none;
   -webkit-font-smoothing: antialiased;
   color: #fff;
