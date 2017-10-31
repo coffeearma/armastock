@@ -71,5 +71,39 @@ article::after {
   height: 75;
 }
 
+/*About Page Styling*/
+
+.around {
+  display: inline-block;
+    border: 2px solid black;
+    border-radius: 75px;
+    padding: 55px;
+}
+
+.aheader {
+  margin-top: -25px;
+  background-image: url("https://puu.sh/ybGAH.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+}
+
+
+.adrop {
+  margin-top: 350px;
+}
+
+.awords {
+  margin-top: 75px;
+}
+
+.afirst {
+  padding-bottom: 40px;
+}
+
+#a-para {
+  background-color: black;
+  padding: 20px;
+}
 
 /* End */
