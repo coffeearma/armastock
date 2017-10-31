@@ -75,35 +75,58 @@ article::after {
 
 .around {
   display: inline-block;
-    border: 2px solid black;
+    border: 2px solid white;
     border-radius: 75px;
     padding: 55px;
 }
 
 .aheader {
   margin-top: -25px;
-  background-image: url("https://puu.sh/ybGAH.jpg");
+  background-image: url("https://puu.sh/ybL1l.jpg");
   background-size: cover;
   background-position: center;
-  height: 350px;
+  height: 450px;
 }
 
 
 .adrop {
-  margin-top: 350px;
+  margin-top: 80px;
 }
 
 .awords {
-  margin-top: 75px;
+  margin-top: 10px;
+  color: white;
+}
+
+.asecond {
+  color: white;
+  padding-top: 20px;
+}
+
+.aimg {
+  border: 1px solid none;
+  border-radius: 7px;
+  -webkit-box-shadow: 2px 1px 5px 0px rgba(0,0,0,0.37);
+  box-shadow: 2px 1px 5px 0px rgba(0,0,0,0.37);
 }
 
 .afirst {
-  padding-bottom: 40px;
+  padding-bottom: 30px;
+  color: white;
+  text-align: justify;
 }
 
 #a-para {
   background-color: black;
-  padding: 20px;
+  padding: 10px;
+  color: white;
+}
+
+#features {
+  background-color: #212529;
+  display: block;
+  padding: 40px;
+  margin-top: -50px;
 }
 
 /* End */
